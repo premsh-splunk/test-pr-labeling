@@ -1,0 +1,8 @@
+{
+  "appid": "22222222-3333-4444-5555-666666666666",
+  "name": "Splunk Test App",
+  "publisher": "Splunk",
+  "type": "investigative",
+  "main_module": "splunkapp_connector.py",
+  "app_version": "1.0.0"
+}
