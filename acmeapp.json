@@ -1,0 +1,8 @@
+{
+  "appid": "11111111-2222-3333-4444-555555555555",
+  "name": "Acme Test App",
+  "publisher": "Acme",
+  "type": "investigative",
+  "main_module": "acmeapp_connector.py",
+  "app_version": "1.0.0"
+}
